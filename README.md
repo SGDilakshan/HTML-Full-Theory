@@ -299,6 +299,33 @@ This HTML file demonstrates the use of **semantic elements** to improve the stru
 
 This file demonstrates how **semantic elements** improve HTML document structure, accessibility, and SEO.  
 
+---------------------------------------------------------------------------
+
+# 15_HTML Accessibility Example  
+
+This HTML file demonstrates the use of **ARIA (Accessible Rich Internet Applications) attributes** to improve web accessibility.  
+## Key Features:  
+
+- **`aria-label="close"`**  
+  - Provides an accessible label for the button without visible text.  
+
+- **`aria-labelledby="box"`**  
+  - Links the button to the text inside the `<div id="box">` for better screen reader support.  
+
+- **`aria-hidden="true"`**  
+  - Hides the paragraph from assistive technologies.  
+
+- **`aria-expanded="false"` & `aria-controls="section"`**  
+  - Indicates whether a collapsible section (`#section`) is expanded or collapsed.  
+
+- **`aria-checked="true"`**  
+  - Used on both a button and a checkbox to indicate a checked state.  
+
+- **`role="listbox"` & `role="option"`**  
+  - Defines a listbox containing selectable options.  
+  - `aria-selected="true/false"`: Marks which list items are selected.  
+
+This file demonstrates how **ARIA attributes** improve web accessibility for users with disabilities.  
 
 
 ## More to Learn  
