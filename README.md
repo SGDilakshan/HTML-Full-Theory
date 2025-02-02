@@ -107,5 +107,6 @@ This HTML file demonstrates how to use images and image maps in HTML.
 
 
 
+
 ## More to Learn  
 This is just the beginning! Stay tuned for more HTML topics.  
