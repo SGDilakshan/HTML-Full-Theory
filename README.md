@@ -222,6 +222,57 @@ This file demonstrates how to structure and style tables effectively using HTML 
 
 ---------------------------------------------------------------------------
 
+# 13_HTML Forms  
+
+This HTML file demonstrates the use of **forms and form elements** in HTML.  
+## Key Features:  
+
+- **`<form action="submit.html" method="get">`**  
+  - Creates a form that submits data to `submit.html` using the `GET` method.  
+
+- **Input Fields**  
+  - `<input type="text" name="Dilakshan">`: Text input field.  
+  - `<input type="text" autofocus>`: Automatically focuses when the page loads.  
+  - `<input type="text" required id="user">`: A required text input with a label.  
+  - `<input type="password">`: Password input field.  
+  - `<input type="email">`: Email input field.  
+  - `<input type="tel">`: Telephone input field.  
+  - `<input type="url">`: URL input field.  
+  - `<input type="number" min="10" max="15">`: Number input with a range.  
+  - `<input type="file">`: File upload input.  
+  - `<input type="color">`: Color picker input.  
+  - `<input type="date">`: Date picker input.  
+  - `<input type="datetime-local">`: Date & time picker input.  
+  - `<input type="month">`: Month selector input.  
+  - `<input type="week">`: Week selector input.  
+  - `<input type="time">`: Time picker input.  
+
+- **Buttons & Controls**  
+  - `<button type="submit">`: Submit button.  
+  - `<button type="submit" disabled>`: Disabled submit button.  
+  - `<input type="button">`: Button input field.  
+  - `<input type="reset" value="submit">`: Reset button.  
+  - `<input type="checkbox">`: Checkbox input.  
+
+- **Select & Textarea Elements**  
+  - `<select multiple>`: Dropdown selection with multiple options.  
+  - `<option selected>`: Pre-selected option in the dropdown.  
+  - `<textarea cols="30" rows="10">`: Multi-line text input.  
+
+- **Fieldset & Legend**  
+  - `<fieldset>`: Groups related form elements.  
+  - `<legend>`: Provides a title for the fieldset.  
+
+- **Datalist for Auto-Suggestions**  
+  - `<datalist>`: Provides predefined suggestions for input.  
+
+- **Form Submission**  
+  - The form submits to `submit.html`, displaying `"Your form has been submitted successfully."`  
+
+This file demonstrates the structure and functionality of HTML forms with various input types.  
+
+
+
 
 ## More to Learn  
 This is just the beginning! Stay tuned for more HTML topics.  
