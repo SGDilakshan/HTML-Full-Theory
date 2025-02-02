@@ -271,6 +271,33 @@ This HTML file demonstrates the use of **forms and form elements** in HTML.
 
 This file demonstrates the structure and functionality of HTML forms with various input types.  
 
+---------------------------------------------------------------------------
+
+# 14_HTML Semantic Elements
+
+This HTML file demonstrates the use of **semantic elements** to improve the structure and readability of a webpage.  
+## Key Features:  
+
+- **`<header>`**  
+  - Contains the **navigation bar** (`<nav>`) with a list of links (`<ul>` & `<li>`).  
+
+- **`<nav>`**  
+  - Provides a **navigation menu** with links: Home, About, Service, and Contact.  
+
+- **`<main>`**  
+  - Represents the **main content** of the webpage.  
+
+- **`<article>` & `<section>`**  
+  - `<article>`: Groups independent, self-contained content.  
+  - `<section>`: Contains a heading (`<h1>About us`) and a paragraph.  
+
+- **`<aside>`**  
+  - Represents **sidebar content** (Latest News section).  
+
+- **`<footer>`**  
+  - Contains **copyright information** (`© 2025`).  
+
+This file demonstrates how **semantic elements** improve HTML document structure, accessibility, and SEO.  
 
 
 
