@@ -86,6 +86,26 @@ This HTML file demonstrates the use of links and the `mailto` feature.
 - **`<p id="this">Lorem ipsum dolor sit, amet consectetur adipisicing elit...`**: A paragraph with some placeholder text.
 - **`<a href="mailto:test@gmail.com">Send mail</a>`**: A link that opens the default mail client to send an email to `test@gmail.com`.
 
+---------------------------------------------------------------------------
+
+# 07_HTML images
+
+This HTML file demonstrates how to use images and image maps in HTML.  
+
+## Key Features:  
+- **`<img>`**: Displays an image with attributes:  
+  - `src="./falls-nature.jpg"`: Sets the image source.  
+  - `width="300" height="300"`: Defines the image size.  
+  - `alt="Fall nature"`: Provides alternative text for accessibility.  
+  - `usemap="#map_name"`: Links the image to a map.  
+
+- **`<map name="map_name">`**: Defines an image map with clickable areas.  
+
+- **`<area>`**: Creates clickable areas on the image:  
+  - `shape="rect" coords="0,0,100,100"`: Defines a rectangular clickable area linking to [Google](https://google.com).  
+  - `shape="circle" coords="150,150,50"`: Defines a circular clickable area linking to [YouTube](https://youtube.com).    
+
+
 
 ## More to Learn  
 This is just the beginning! Stay tuned for more HTML topics.  
