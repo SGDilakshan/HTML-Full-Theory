@@ -64,5 +64,19 @@ This file showcases how to use line breaks and comments in HTML.
 
 ---
 
+## 05 - HTML Quotation and Citation Elements  
+
+This HTML file demonstrates quotation and citation tags.  
+### Key Features:  
+- `<blockquote>` Defines a block of text for a quote, with a citation link.  
+- `<abbr>` Represents an abbreviation, with an optional title attribute for full form.  
+- `<address>` Represents contact information for the author or owner of the document.  
+- `<cite>` Cites a reference or source of the quote.  
+- `<bdo>` Controls the text direction (in this example, right-to-left).  
+
+This file showcases how to use various quotation and citation elements in HTML.  
+
+---
+
 ## More to Learn  
 This is just the beginning! Stay tuned for more HTML topics.  
