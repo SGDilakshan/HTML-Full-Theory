@@ -14,7 +14,7 @@ This is a basic HTML document that displays "Hello world!" on a webpage.
 - `<body>` Contains the visible content of the webpage.  
 - `<h1>` Displays the main heading on the page.  
 
----
+---------------------------------------------------------------------------
 
 ## 02 - HTML Tags and Elements Basics  
 
@@ -26,7 +26,7 @@ This HTML file demonstrates basic tags and elements.
 - `<a>` A clickable link to Google.  
 - `<style>` Changes the heading color to red.  
 
----
+---------------------------------------------------------------------------
 
 ## 03 - Formatting Text in HTML  
 
@@ -48,7 +48,7 @@ This HTML file demonstrates basic text formatting tags.
 
 This file showcases various text formatting styles in HTML.  
 
----
+---------------------------------------------------------------------------
 
 ## 04 - Line Breaks and Comments in HTML  
 
@@ -62,7 +62,7 @@ This HTML file demonstrates line breaks and comments in HTML.
 
 This file showcases how to use line breaks and comments in HTML.  
 
----
+---------------------------------------------------------------------------
 
 ## 05 - HTML Quotation and Citation Elements  
 
@@ -76,7 +76,16 @@ This HTML file demonstrates quotation and citation tags.
 
 This file showcases how to use various quotation and citation elements in HTML.  
 
----
+---------------------------------------------------------------------------
+
+## 06_HTML links
+This HTML file demonstrates the use of links and the `mailto` feature.
+
+## Key Features:
+- **`<a href="new.html">Click here</a>`**: A clickable link that redirects to `new.html`.
+- **`<p id="this">Lorem ipsum dolor sit, amet consectetur adipisicing elit...`**: A paragraph with some placeholder text.
+- **`<a href="mailto:test@gmail.com">Send mail</a>`**: A link that opens the default mail client to send an email to `test@gmail.com`.
+
 
 ## More to Learn  
 This is just the beginning! Stay tuned for more HTML topics.  
