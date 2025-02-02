@@ -105,6 +105,7 @@ This HTML file demonstrates how to use images and image maps in HTML.
   - `shape="rect" coords="0,0,100,100"`: Defines a rectangular clickable area linking to [Google](https://google.com).  
   - `shape="circle" coords="150,150,50"`: Defines a circular clickable area linking to [YouTube](https://youtube.com).    
 
+---------------------------------------------------------------------------
 
 # 08_HTML Entities 
 
@@ -118,6 +119,24 @@ This HTML file demonstrates the use of **HTML entities** to display special char
 - **`&lt;h3&gt;`**: Displays `<h3>` as text instead of rendering it as an HTML element.  
 
 This file is useful for displaying reserved characters in HTML without affecting the document structure.  
+
+---------------------------------------------------------------------------
+
+# 09_Generic HTML Elements  
+
+This HTML file demonstrates the use of **generic container elements** in HTML.  
+## Key Features:  
+
+- **`<div>`**:  
+  - A block-level container used for grouping elements.  
+  - Styled with `border: 1px solid black;` to show its boundaries.  
+
+- **`<span>`**:  
+  - An inline container used for styling specific portions of text.  
+  - Styled with `border: 1px solid black;` to show its boundaries.  
+
+This file highlights the difference between **block-level (`<div>`)** and **inline (`<span>`)** elements in HTML.  
+
 
 
 ## More to Learn  
