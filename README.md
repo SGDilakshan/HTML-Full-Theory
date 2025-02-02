@@ -137,6 +137,35 @@ This HTML file demonstrates the use of **generic container elements** in HTML.
 
 This file highlights the difference between **block-level (`<div>`)** and **inline (`<span>`)** elements in HTML.  
 
+---------------------------------------------------------------------------
+
+# 10_HTML Lists
+
+This HTML file demonstrates different types of lists in HTML, including unordered lists, ordered lists, nested lists, description lists, and list items with links.  
+## Key Features:  
+
+- **`<ul>` (Unordered List)**  
+  - Displays a bulleted list.  
+  - Example: Days of the week in an unordered list.  
+
+- **`<ol>` (Ordered List)**  
+  - Displays a numbered list.  
+  - Example: Days of the week in an ordered list.  
+  - Supports attributes like `type="I"` and `start="10"`.  
+
+- **Nested Lists**  
+  - Unordered list inside another unordered list.  
+  - Ordered list inside another ordered list.  
+
+- **List Items with Links**  
+  - `<a href="https://www.google.com" target="_blank">`: Opens a link in a new tab.  
+
+- **`<dl>` (Description List)**  
+  - `<dt>` (Definition Term): Represents the term.  
+  - `<dd>` (Definition Description): Provides the definition.  
+
+This file showcases various ways to structure and format lists in HTML.  
+
 
 
 ## More to Learn  
