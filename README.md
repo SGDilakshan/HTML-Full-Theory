@@ -189,6 +189,38 @@ This HTML file demonstrates the use of **iFrames** to embed external content and
 
 This file demonstrates how to embed external pages and videos using iFrames in HTML.  
 
+---------------------------------------------------------------------------
+
+# 12_HTML Tables  
+
+This HTML file demonstrates the creation and styling of **tables** in HTML.  
+## Key Features:  
+
+- **`<table>`**  
+  - Defines a table with structured rows and columns.  
+
+- **`<caption>`**  
+  - Adds a title to the table (`Personal Data`).  
+
+- **`<thead>` and `<tbody>`**  
+  - `<thead>`: Defines the table header.  
+  - `<tbody>`: Contains the main table data.  
+
+- **`<tr>` (Table Row) & `<th>` / `<td>` (Table Headers / Data Cells)**  
+  - `<th>`: Defines column headers (`Name`, `Age`, `Occupations`).  
+  - `<td>`: Represents individual data cells (`Dilakshan`, `25`, `Software Engineer`, etc.).  
+
+- **`<colgroup>`**  
+  - Groups columns together for styling purposes.  
+  - Example: `visibility: collapse;` hides a specific column.  
+
+- **CSS Styling**  
+  - `border: 1px solid black;`: Adds a border to the table, headers, and cells.  
+  - `border-collapse: collapse;`: Merges table borders for a cleaner look.  
+
+This file demonstrates how to structure and style tables effectively using HTML and CSS.  
+
+---------------------------------------------------------------------------
 
 
 ## More to Learn  

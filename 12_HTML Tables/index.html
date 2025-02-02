@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>12_HTML Tables</title>
+    <style>
+        table,th,td{border: 1px solid black;border-collapse: collapse;}
+    </style>
+</head>
+<body>
+    <h2>Sample Table</h2>
+    <table>
+        <!-- <colgroup>
+            <col span="2">
+        </colgroup>
+        <colgroup>
+            <col span="1" style="background-color: red;">
+        </colgroup> -->
+
+        <colgroup>
+            <col span="1" style="visibility: collapse;">
+        </colgroup>
+        <caption>Personal Data</caption>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Occupations</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dilakshan</td>
+                <td>25</td>
+                <td>Software Engineer</td>
+            </tr>
+            <tr>
+                <td>Raj</td>
+                <td>28</td>
+                <td>Doctor</td>
+            </tr>
+            <tr>
+                <td>Nimal</td>
+                <td>35</td>
+                <td>Teacher</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
