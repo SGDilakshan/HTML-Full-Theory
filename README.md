@@ -166,6 +166,29 @@ This HTML file demonstrates different types of lists in HTML, including unordere
 
 This file showcases various ways to structure and format lists in HTML.  
 
+---------------------------------------------------------------------------
+
+# 11_HTML iFrames
+
+This HTML file demonstrates the use of **iFrames** to embed external content and link navigation within an iframe.  
+## Key Features:  
+
+- **`<iframe src="new.html" frameborder="10" width="300" height="300" name="iframe">`**  
+  - Embeds an external page (`new.html`) within the current page.  
+  - `frameborder="10"`: Adds a border around the iframe.  
+  - `width="300" height="300"`: Defines iframe dimensions.  
+  - `name="iframe"`: Allows targeting from links.  
+
+- **`<a href="new1.html" target="iframe">Click here</a>`**  
+  - Opens `new1.html` inside the iframe instead of a new page.  
+
+- **YouTube Video Embed**  
+  - `<iframe src="https://www.youtube.com/embed/E5CG7PUyBk0"... allowfullscreen>`  
+  - Embeds a YouTube video within the page.  
+  - Supports attributes like `allowfullscreen` for full-screen playback.  
+
+This file demonstrates how to embed external pages and videos using iFrames in HTML.  
+
 
 
 ## More to Learn  
